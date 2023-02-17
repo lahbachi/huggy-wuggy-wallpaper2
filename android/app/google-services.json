@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140816244917",
+    "project_id": "huggy-wuggy-2-281b8",
+    "storage_bucket": "huggy-wuggy-2-281b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140816244917:android:b3780478e8e3ae31ee9efc",
+        "android_client_info": {
+          "package_name": "com.example.huggy_wuggy_wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140816244917-7ihd0ull426f2h6c19uhl2fnssoc9l23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5P7ae9_vq4C7Ge6-iagGMnK3QC7AqCHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140816244917-7ihd0ull426f2h6c19uhl2fnssoc9l23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+class AppIcon {
+  static const layoutOne = 'assets/svgs/layout1.svg';
+  static const layoutTwo = 'assets/svgs/layout2.svg';
+  static const favorite = 'assets/svgs/favorite.svg';
+  static const favoriteBorder = 'assets/svgs/favorite_border.svg';
+  static const download = 'assets/svgs/get_app.svg';
+  static const game = 'assets/svgs/game.svg';
+  static const play = 'assets/svgs/play.svg';
+  static const set = 'assets/svgs/palette.svg';
+  static const fire = 'assets/svgs/Fire.svg';
+  static const dashboard = 'assets/svgs/dashboard.svg';
+  static const expand = 'assets/svgs/expand.svg';
+  static const collapse = 'assets/svgs/collapse.svg';
+  static const back = 'assets/svgs/back.svg';
+  static const share = 'assets/svgs/share.svg';
+  static const forward = 'assets/svgs/forward.svg';
+  static const youtube = 'assets/svgs/youtube.svg';
+  static const googlePlay = 'assets/svgs/googlePlay.svg';
+  static const instagram = 'assets/svgs/instagram.svg';
+  static const telegram = 'assets/svgs/telegram.svg';
+  static const twitter = 'assets/svgs/twitter.svg';
+  static const facebook = 'assets/svgs/facebook.svg';
+  static const delete = 'assets/svgs/delete.svg';
+  static const discord = 'assets/svgs/discord.svg';
+  static const menu = 'assets/svgs/menu.svg';
+  static const edit = 'assets/svgs/edit.svg';
+  static const swap = 'assets/svgs/swap.svg';
+  static const bmc = 'assets/svgs/bmc-logo.svg';
+  static const partager = 'assets/svgs/partager.svg';
+  static const bmcFull = 'assets/svgs/bmc-full-logo.svg';
+
+  // static const paypal = 'assets/svgs/paypl.svg';
+  static const paypal = 'assets/svgs/PayPal-Logo.wine.svg';
+  static const donate = 'assets/svgs/donate.svg';
+  static const gift = 'assets/svgs/gift.svg';
+  static const rate = 'assets/svgs/rate.svg';
+  static const about = 'assets/svgs/about.svg';
+  static const emptyBox = 'assets/svgs/emptyBox.svg';
+  static const emptyData = 'assets/svgs/emptyData.svg';
+  static const iconApp = 'assets/icon.png';
+  static const shareApp = 'assets/share_app.png';
+  static const gameBgrd = 'assets/gameBgrd.jpg';
+  static const star = 'assets/svgs/starss.svg';
+}
