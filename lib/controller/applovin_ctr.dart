@@ -26,7 +26,7 @@ class AdsApplovinCtrl extends GetxController {
   AdsUnitCtrl adsUnitCtrl = Get.find<AdsUnitCtrl>();
   @override
   void onInit() async {
-    initializePlugin();
+    //initializePlugin();
     super.onInit();
   }
 

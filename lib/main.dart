@@ -12,7 +12,6 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import '../../controller/binding/binding.dart';
 import '../../route.dart' as app_route;
-import 'core/common/app_color.dart';
 import 'core/common/app_config.dart';
 import 'core/common/app_fonts.dart';
 import 'core/common/color.dart';
@@ -111,14 +110,14 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       initialBinding: Binding(),
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
+      title: AppConfig.appName,
       theme: ThemeData(
         fontFamily: AppFont.JollyGood,
       ),
       home: ScreenUtilInit(
         designSize: const Size(360, 690),
         builder: (BuildContext context, child) => MaterialApp(
-          title: 'Census dakar',
+          title: AppConfig.appName,
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             fontFamily: AppFont.JollyGood,

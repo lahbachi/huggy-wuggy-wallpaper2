@@ -3,6 +3,7 @@
   static const bool itemSelected =true;
   static const bool announcementOne =true;
   static const bool adGamesHr =true;
+  //Todo:don't forget that
   static const String brandName = '@AmouzaiStr';
   static const String email = '@AmouzaiStr';
   static String appName = '';

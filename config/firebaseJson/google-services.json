@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "140816244917",
-    "project_id": "huggy-wuggy-2-281b8",
-    "storage_bucket": "huggy-wuggy-2-281b8.appspot.com"
+    "project_number": "460579404131",
+    "project_id": "camping-wallp",
+    "storage_bucket": "camping-wallp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:140816244917:android:b3780478e8e3ae31ee9efc",
+        "mobilesdk_app_id": "1:460579404131:android:6e5fd438beea9ffd8a3b56",
         "android_client_info": {
-          "package_name": "com.example.huggy_wuggy_wallpaper"
+          "package_name": "com.AmouzaiStr.camping"
         }
       },
       "oauth_client": [
         {
-          "client_id": "140816244917-7ihd0ull426f2h6c19uhl2fnssoc9l23.apps.googleusercontent.com",
+          "client_id": "460579404131-5l5rqu9uvihpuc7aut775t00tipc28aq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC5P7ae9_vq4C7Ge6-iagGMnK3QC7AqCHw"
+          "current_key": "AIzaSyBJohepxniD0isUGIVw99z7xdyhGCKddm8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "140816244917-7ihd0ull426f2h6c19uhl2fnssoc9l23.apps.googleusercontent.com",
+              "client_id": "460579404131-5l5rqu9uvihpuc7aut775t00tipc28aq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

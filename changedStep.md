@@ -11,4 +11,4 @@ create new app
 +example:
 ./create_wallpaper.sh  app_name package_name versionName buildNumber
 +example:
-./create_wallpaper.sh  camping com.example.huggy_wuggy_wallpaper 1.0.2 3
+./create_wallpaper.sh  camping com.AmouzaiStr.camping 1.0.1 1
